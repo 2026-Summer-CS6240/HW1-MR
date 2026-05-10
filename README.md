@@ -6,14 +6,15 @@ Author
 - Joe Sackett (2018)
 - Updated by Nikos Tziavelis (2023)
 - Updated by Mirek Riedewald (2024)
+- Updated by Diego Rivera Correa (2026)
 
 Installation
 ------------
 These components need to be installed first:
 - OpenJDK 11
 - Hadoop 3.3.5
-- Maven (Tested with version 3.6.3)
-- AWS CLI (Tested with version 1.22.34)
+- Maven (Tested with version 3.9.15)
+- AWS CLI (Tested with v1)
 
 After downloading the hadoop installation, move it to an appropriate directory:
 
